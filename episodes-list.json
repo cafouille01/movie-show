@@ -1,0 +1,125 @@
+{
+    "shows": [
+        {
+            "id": 8339,
+            "thetvdb_id": 279121,
+            "title": "The Flash (2014)",
+            "remaining": 5,
+            "unseen": [
+                {
+                    "id": 446200,
+                    "thetvdb_id": 5110414,
+                    "youtube_id": null,
+                    "title": "All-Star Team Up",
+                    "season": 1,
+                    "episode": 18,
+                    "show": {
+                        "id": 8339,
+                        "thetvdb_id": 279121,
+                        "title": "The Flash (2014)"
+                    },
+                    "code": "S01E18",
+                    "global": 18,
+                    "description": "Note: Flash 1x18 takes places before Arrow 3x18.\nBarry is surprised when Felicity Smoak arrives from Starling City along with her boyfriend, Ray Palmer, who flies in as the Atom. They\u2019ve come to visit S.T.A.R. Labs as Ray needs help with his suit. Their timing turns out to be fortuitous because it\u2019s all hands on deck after a meta human named Brie Larvin unleashes hundreds of robotic bees to attack and kill her former co-workers, including Dr. Tina McGee. A group dinner with Barry, Felicity, Ray, Iris and Eddie turns into a disaster.",
+                    "date": "2015-04-15",
+                    "note": {
+                        "total": "1726",
+                        "mean": "4.39",
+                        "user": 0
+                    },
+                    "user": {
+                        "seen": false,
+                        "downloaded": true
+                    },
+                    "comments": "46",
+                    "subtitles": []
+                },
+                {
+                    "id": 463577,
+                    "thetvdb_id": 5166508,
+                    "youtube_id": null,
+                    "title": "Who Is Harrison Wells?",
+                    "season": 1,
+                    "episode": 19,
+                    "show": {
+                        "id": 8339,
+                        "thetvdb_id": 279121,
+                        "title": "The Flash (2014)"
+                    },
+                    "code": "S01E19",
+                    "global": 19,
+                    "description": "Joe et Cisco voyagent \u00e0 Starling City pour continuer leur enqu\u00eate sur le Dr Wells. Alors qu\u2019ils sont en ville, le duo fait appel \u00e0 l\u2019aide du capitaine Lance, et Cisco rencontre Black Canary, qui lui demande une faveur. Pendant ce temps l\u00e0, \u00e0 Central City, Barry court apr\u00e8s un meta-humain appel\u00e9 Hannibal Bates, qui peut se prendre l\u2019apparence de toutes les personnes qu\u2019il touche - ce qui inclut Eddie, Iris, Caitlin et m\u00eame The Flash.",
+                    "date": "2015-04-22",
+                    "note": {
+                        "total": "1737",
+                        "mean": "4.49",
+                        "user": 0
+                    },
+                    "user": {
+                        "seen": false,
+                        "downloaded": true
+                    },
+                    "comments": "51",
+                    "subtitles": []
+                },
+                {
+                    "id": 463578,
+                    "thetvdb_id": 5166509,
+                    "youtube_id": null,
+                    "title": "The Trap",
+                    "season": 1,
+                    "episode": 20,
+                    "show": {
+                        "id": 8339,
+                        "thetvdb_id": 279121,
+                        "title": "The Flash (2014)"
+                    },
+                    "code": "S01E20",
+                    "global": 20,
+                    "description": "Barry, Caitlin, Cisco et Joe mettent en place un pi\u00e8ge pour Wells. Cisco s'utilise lui-m\u00eame en tant qu'app\u00e2t, ce qui le met en grand danger. Pendant ce temps, Eddie prend une d\u00e9cision qui laisse Joe bien sceptique.",
+                    "date": "2015-04-29",
+                    "note": {
+                        "total": "1668",
+                        "mean": "4.61",
+                        "user": 0
+                    },
+                    "user": {
+                        "seen": false,
+                        "downloaded": true
+                    },
+                    "comments": "67",
+                    "subtitles": []
+                },
+                {
+                    "id": 463579,
+                    "thetvdb_id": 5166510,
+                    "youtube_id": null,
+                    "title": "Grodd Lives",
+                    "season": 1,
+                    "episode": 21,
+                    "show": {
+                        "id": 8339,
+                        "thetvdb_id": 279121,
+                        "title": "The Flash (2014)"
+                    },
+                    "code": "S01E21",
+                    "global": 21,
+                    "description": "Barry doit s'occuper de la derni\u00e8re menace du Reverse Flash qui s'en prend \u00e0 un membre du groupe. Pour ne rien arranger, le Dr Wells rel\u00e2che Grodd dans la ville pour distraire Barry et l'\u00e9quipe. Joe, Barry et Cisco  se rendent dans les \u00e9gouts pour attraper Grodd mais le gorille a rapidement le dessus sur eux, car il finit par kidnapper Joe. Puis Iris et Barry ont une discussion \u00e0 c\u0153ur ouvert.",
+                    "date": "2015-05-06",
+                    "note": {
+                        "total": "1435",
+                        "mean": "4.29",
+                        "user": 0
+                    },
+                    "user": {
+                        "seen": false,
+                        "downloaded": true
+                    },
+                    "comments": "77",
+                    "subtitles": []
+                }
+            ]
+        }
+    ],
+    "errors": []
+}

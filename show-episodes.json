@@ -1,0 +1,649 @@
+{
+    "episodes": [
+        {
+            "id": 373423,
+            "thetvdb_id": 4812524,
+            "youtube_id": null,
+            "title": "City of Heroes",
+            "season": 1,
+            "episode": 1,
+            "show": {
+                "id": 8339,
+                "thetvdb_id": 279121,
+                "title": "The Flash (2014)"
+            },
+            "code": "S01E01",
+            "global": 1,
+            "description": "Barry Allen a tout juste 11 ans lorsque sa m\u00e8re meurt dans de myst\u00e9rieuses circonstances. Son p\u00e8re,  reconnu comme \u00e9tant responsable de cette trag\u00e9die, est envoy\u00e9 derri\u00e8re les barreaux. Le gamin est alors \u00e9lev\u00e9 par le d\u00e9tective Joe West, le p\u00e8re de sa meilleure amie, Iris. D\u00e9sormais adulte, le jeune homme n'abandonne pas l'espoir de d\u00e9couvrir la v\u00e9rit\u00e9 sur la mort \u00e9trange de celle qui lui a donn\u00e9 la vie. Pour l'heure, devenu un brillant expert de la police scientifique de Central City, il aide \u00e0 reccueillir les preuves qui permettront de coincer les criminels. En v\u00e9ritable geek, sa derni\u00e8re obsession est un acc\u00e9l\u00e9rateur de particules activ\u00e9 par l'\u00e9quipe de S.T.A.R. Labs. Dirig\u00e9e par un physicien visionnaire du nom d'Harrison Wells, la soci\u00e9t\u00e9 entend faire une avanc\u00e9e historique qui aura d'incroyables r\u00e9percussion sur la science et la m\u00e9decine. Malheureusement, une anomalie provoque une explosion qui d\u00e9clenche une terrible temp\u00eate. De nombreuses vies sont perdues cette nuit-l\u00e0, et Barry perd connaissance apr\u00e8s avoir \u00e9t\u00e9 frapp\u00e9 par la foudre alors qu'il se trouvait dans son laboratoire. Apr\u00e8s 9 mois de coma, il se r\u00e9veille sans se douter que son existence va prendre un nouveau virage. L'accident semble l'avoir dot\u00e9 d'\u00e9tonnants pouvoirs...",
+            "date": "2014-10-07",
+            "note": {
+                "total": "2142",
+                "mean": "4.3002",
+                "user": 0
+            },
+            "user": {
+                "seen": false,
+                "downloaded": false
+            },
+            "comments": "94",
+            "subtitles": []
+        },
+        {
+            "id": 391417,
+            "thetvdb_id": 4929322,
+            "youtube_id": null,
+            "title": "Fastest Man Alive",
+            "season": 1,
+            "episode": 2,
+            "show": {
+                "id": 8339,
+                "thetvdb_id": 279121,
+                "title": "The Flash (2014)"
+            },
+            "code": "S01E02",
+            "global": 2,
+            "description": "Barry est toujours en train d\u2019explorer ses nouvelles capacit\u00e9s, et se rend compte que sa vitesse lui donne de fr\u00e9quents vertiges. L\u2019\u00e9quipe de S.T.A.R. Labs et la police d\u00e9couvre \u00e9galement un nouveau m\u00e9tahumain en libert\u00e9.",
+            "date": "2014-10-14",
+            "note": {
+                "total": "2020",
+                "mean": "4.2421",
+                "user": 0
+            },
+            "user": {
+                "seen": false,
+                "downloaded": false
+            },
+            "comments": "68",
+            "subtitles": []
+        },
+        {
+            "id": 391418,
+            "thetvdb_id": 4929325,
+            "youtube_id": null,
+            "title": "Things You Can't Outrun",
+            "season": 1,
+            "episode": 3,
+            "show": {
+                "id": 8339,
+                "thetvdb_id": 279121,
+                "title": "The Flash (2014)"
+            },
+            "code": "S01E03",
+            "global": 3,
+            "description": "Un des m\u00e9tahumains commet une s\u00e9rie d\u2019attaques en empoisonnant ses victimes. Barry et son \u00e9quipe se mettent en chasse. Joe est bien d\u00e9cid\u00e9 \u00e0 faire la lumi\u00e8re sur le meurtre de la m\u00e8re de Barry.",
+            "date": "2014-10-21",
+            "note": {
+                "total": "1928",
+                "mean": "4.2220",
+                "user": 0
+            },
+            "user": {
+                "seen": false,
+                "downloaded": false
+            },
+            "comments": "45",
+            "subtitles": []
+        },
+        {
+            "id": 395211,
+            "thetvdb_id": 4936770,
+            "youtube_id": null,
+            "title": "Going Rogue",
+            "season": 1,
+            "episode": 4,
+            "show": {
+                "id": 8339,
+                "thetvdb_id": 279121,
+                "title": "The Flash (2014)"
+            },
+            "code": "S01E04",
+            "global": 4,
+            "description": "Felicity Smoak est de passage \u00e0 Central City pour rendre visite \u00e0 Barry, qu\u2019elle n\u2019a pas vu depuis son accident. Ce dernier voit l\u2019arriv\u00e9e d\u2019un nouvel adversaire qui a trouv\u00e9 une faille au Flash.",
+            "date": "2014-10-28",
+            "note": {
+                "total": "1935",
+                "mean": "4.3664",
+                "user": 0
+            },
+            "user": {
+                "seen": false,
+                "downloaded": false
+            },
+            "comments": "67",
+            "subtitles": []
+        },
+        {
+            "id": 415127,
+            "thetvdb_id": 5025023,
+            "youtube_id": null,
+            "title": "Plastique",
+            "season": 1,
+            "episode": 5,
+            "show": {
+                "id": 8339,
+                "thetvdb_id": 279121,
+                "title": "The Flash (2014)"
+            },
+            "code": "S01E05",
+            "global": 5,
+            "description": "Barry et son \u00e9quipe d\u00e9couvrent une nouvelle personne m\u00e9tamorphos\u00e9e par l\u2019explosion du labo. Il s\u2019agit d\u2019une militaire qui transforme ce qu\u2019elle touche en bombe. Barry, mais aussi l\u2019arm\u00e9e, tente alors de lui mettre la main dessus.",
+            "date": "2014-11-11",
+            "note": {
+                "total": "1830",
+                "mean": "4.2536",
+                "user": 0
+            },
+            "user": {
+                "seen": false,
+                "downloaded": false
+            },
+            "comments": "46",
+            "subtitles": []
+        },
+        {
+            "id": 415483,
+            "thetvdb_id": 5028737,
+            "youtube_id": null,
+            "title": "The Flash Is Born",
+            "season": 1,
+            "episode": 6,
+            "show": {
+                "id": 8339,
+                "thetvdb_id": 279121,
+                "title": "The Flash (2014)"
+            },
+            "code": "S01E06",
+            "global": 6,
+            "description": "Malgr\u00e9 ses tentatives pour \u00e9loigner Iris de \u00ab La tra\u00een\u00e9e rouge \u00bb, Barry n\u2019arrive pas \u00e0 convaincre la jeune journaliste que sa s\u00e9curit\u00e9 est en jeu. Mais une ancienne connaissance refait surface et pourrait changer cela.",
+            "date": "2014-11-18",
+            "note": {
+                "total": "1771",
+                "mean": "4.3179",
+                "user": 0
+            },
+            "user": {
+                "seen": false,
+                "downloaded": false
+            },
+            "comments": "43",
+            "subtitles": []
+        },
+        {
+            "id": 415484,
+            "thetvdb_id": 5028738,
+            "youtube_id": null,
+            "title": "Power Outage",
+            "season": 1,
+            "episode": 7,
+            "show": {
+                "id": 8339,
+                "thetvdb_id": 279121,
+                "title": "The Flash (2014)"
+            },
+            "code": "S01E07",
+            "global": 7,
+            "description": "En croisant le chemin d\u2019un m\u00e9ta humain capable d\u2019absorber l\u2019\u00e9lectricit\u00e9, Barry perd ses pouvoirs. C\u2019est alors la course pour les r\u00e9cup\u00e9rer, et tenter d\u2019aller sauver le commissariat de Central City d\u2019une prise d\u2019otage.",
+            "date": "2014-11-25",
+            "note": {
+                "total": "1745",
+                "mean": "4.3009",
+                "user": 0
+            },
+            "user": {
+                "seen": false,
+                "downloaded": false
+            },
+            "comments": "30",
+            "subtitles": []
+        },
+        {
+            "id": 415485,
+            "thetvdb_id": 5028739,
+            "youtube_id": null,
+            "title": "Flash vs. Arrow (1)",
+            "season": 1,
+            "episode": 8,
+            "show": {
+                "id": 8339,
+                "thetvdb_id": 279121,
+                "title": "The Flash (2014)"
+            },
+            "code": "S01E08",
+            "global": 8,
+            "description": "Barry is thrilled when Oliver, Felicity and Diggle come to Central City to investigate a case involving a deadly boomerang.",
+            "date": "2014-12-02",
+            "note": {
+                "total": "1936",
+                "mean": "4.5057",
+                "user": 0
+            },
+            "user": {
+                "seen": false,
+                "downloaded": false
+            },
+            "comments": "62",
+            "subtitles": []
+        },
+        {
+            "id": 421423,
+            "thetvdb_id": 5042818,
+            "youtube_id": null,
+            "title": "The Man in the Yellow Suit",
+            "season": 1,
+            "episode": 9,
+            "show": {
+                "id": 8339,
+                "thetvdb_id": 279121,
+                "title": "The Flash (2014)"
+            },
+            "code": "S01E09",
+            "global": 9,
+            "description": "Alors que Barry et tous ses proches s\u2019appr\u00eatent \u00e0 f\u00eater No\u00ebl, le Flash jaune est de retour \u00e0 Central City pour d\u00e9rober un appareil scientifique. Caitlin rencontre de son c\u00f4t\u00e9 une ancienne connaissance.",
+            "date": "2014-12-09",
+            "note": {
+                "total": "2124",
+                "mean": "4.5014",
+                "user": 0
+            },
+            "user": {
+                "seen": false,
+                "downloaded": false
+            },
+            "comments": "88",
+            "subtitles": []
+        },
+        {
+            "id": 423880,
+            "thetvdb_id": 5052260,
+            "youtube_id": null,
+            "title": "Revenge of the Rogues",
+            "season": 1,
+            "episode": 10,
+            "show": {
+                "id": 8339,
+                "thetvdb_id": 279121,
+                "title": "The Flash (2014)"
+            },
+            "code": "S01E10",
+            "global": 10,
+            "description": "Leonard Snart alias Captain Cold fait son grand retour \u00e0 Central City ! Mais cette fois, il est accompagn\u00e9 de Mick Rory alias Heat Wave. Apr\u00e8s avoir vol\u00e9 une peinture valant un demi-million de dollars, le duo de criminels d\u00e9cide de tendre un pi\u00e8ge \u00e0 The Flash. Les m\u00e9chants kidnappent une personne ch\u00e8re \u00e0 Barry et menacent le h\u00e9ros d\u2019assassiner la victime, \u00e0 moins que The Flash n\u2019aille \u00e0 leur rencontre pour une bataille m\u00ealant feu et glace. Barry dit \u00e0 Joe qu\u2019il ne trouve pas judicieux de s\u2019attaquer \u00e0 Snart vu les dommages qui ont \u00e9t\u00e9 caus\u00e9s lors de leur derni\u00e8re rencontre. Le justicier demande ensuite au Dr Wells, Caitlin et Cisco de l\u2019aider \u00e0 travailler plus dur pour rivaliser contre Reverse Flash. Iris essaie de g\u00e9rer au mieux la confession que Barry lui a faite et Cisco cr\u00e9e un nouveau bouclier pour le service de police de Central City .",
+            "date": "2015-01-20",
+            "note": {
+                "total": "1998",
+                "mean": "4.2077",
+                "user": 0
+            },
+            "user": {
+                "seen": false,
+                "downloaded": false
+            },
+            "comments": "42",
+            "subtitles": []
+        },
+        {
+            "id": 429046,
+            "thetvdb_id": 5073549,
+            "youtube_id": null,
+            "title": "The Sound and the Fury",
+            "season": 1,
+            "episode": 11,
+            "show": {
+                "id": 8339,
+                "thetvdb_id": 279121,
+                "title": "The Flash (2014)"
+            },
+            "code": "S01E11",
+            "global": 11,
+            "description": "L'ancien prot\u00e9g\u00e9 de Dr Wells, Hartley Rathaway est de retour pour se venger de son mentor apr\u00e8s avoir \u00e9t\u00e9 touch\u00e9 par l'explosion de l'acc\u00e9l\u00e9rateur de particules. D\u00e9sormais capable de manipuler les ondes sonores, Rathaway est une dangereuse menace pour Wells et The Flash. Pendant ce temps, Iris est heureuse d'avoir \u00e9t\u00e9 engag\u00e9e en tant que jeune reporter au journal de Central City. Malheureusement, son sup\u00e9rieur la place avec un v\u00e9t\u00e9ran, qui ne veut pas d'elle. Cisco se rappelle son premier jour \u00e0 STAR Labs et sa rencontre avec Hartley et Caitlin. Joe demande une faveur \u00e0 Eddie, et de ne pas en parler \u00e0 Barry.",
+            "date": "2015-01-27",
+            "note": {
+                "total": "1905",
+                "mean": "4.1921",
+                "user": 0
+            },
+            "user": {
+                "seen": false,
+                "downloaded": false
+            },
+            "comments": "37",
+            "subtitles": []
+        },
+        {
+            "id": 429047,
+            "thetvdb_id": 5073556,
+            "youtube_id": null,
+            "title": "Crazy for You",
+            "season": 1,
+            "episode": 12,
+            "show": {
+                "id": 8339,
+                "thetvdb_id": 279121,
+                "title": "The Flash (2014)"
+            },
+            "code": "S01E12",
+            "global": 12,
+            "description": "Caitlin d\u00e9cide qu'il est temps pour Barry et elle de tourner les pages \"Ronnie\" et \"Iris\" de fa\u00e7on d\u00e9finitive. Pour ce faire, elle organise une soir\u00e9e dans un bar-karaok\u00e9 de la ville. Malheureusement, Caitlin ne trouve pas son bonheur. Cependant, Barry rencontre Linda Parks, une journaliste sportive qui travaille pour le Central City Picture News. Conquis par la jeune femme, Barry lui propose un rendez-vous. A cette annonce, Iris r\u00e9agit \u00e9trangement.\nPendant ce temps, Cisco prend en consid\u00e9ration l'offre dangereuse que lui propose Hartley tandis que l'\u00e9quipe est \u00e0 la recherche de Shauna. Cette meta-humaine a le pouvoir de se t\u00e9l\u00e9porter \u00e0 sa guise et d\u00e9cide de pi\u00e9ger son petit-ami Clay dans Iron Heights.\nQuand le p\u00e8re de Barry se met \u00e0 chercher des indices pour aider Joe et son fils \u00e0 r\u00e9soudre une affaire, il atterrit \u00e0 l'infirmerie apr\u00e8s avoir \u00e9t\u00e9 pass\u00e9 \u00e0 tabac par des criminels.",
+            "date": "2015-02-03",
+            "note": {
+                "total": "1884",
+                "mean": "4.3137",
+                "user": 0
+            },
+            "user": {
+                "seen": false,
+                "downloaded": false
+            },
+            "comments": "58",
+            "subtitles": []
+        },
+        {
+            "id": 435481,
+            "thetvdb_id": 5088525,
+            "youtube_id": null,
+            "title": "The Nuclear Man",
+            "season": 1,
+            "episode": 13,
+            "show": {
+                "id": 8339,
+                "thetvdb_id": 279121,
+                "title": "The Flash (2014)"
+            },
+            "code": "S01E13",
+            "global": 13,
+            "description": "Apr\u00e8s que Ronnie ait attaqu\u00e9 un physicien, Barry et l\u2019\u00e9quipe r\u00e9alisent qu\u2019ils doivent se lancer \u00e0 la poursuite du fianc\u00e9 de Caitlin qui est maintenant un dangereux m\u00e9ta-humain. Ils d\u00e9duisent que la meilleure mani\u00e8re de traquer Ronnie consiste \u00e0 trouver le Dr Martin Stein qui travaillait sur un projet nomm\u00e9 F.I.R.E.S.T.O.R.M. Barry a du mal \u00e0 trouver un \u00e9quilibre entre ses responsabilit\u00e9s en tant que Flash et sa relation avec Linda Park. Joe fait appel \u00e0 Cisco afin de rouvrir l\u2019enqu\u00eate sur le meurtre de Nora Allen. Le g\u00e9n\u00e9ral Eiling revient \u00e0 Central City.",
+            "date": "2015-02-10",
+            "note": {
+                "total": "1906",
+                "mean": "4.3416",
+                "user": 0
+            },
+            "user": {
+                "seen": false,
+                "downloaded": false
+            },
+            "comments": "30",
+            "subtitles": []
+        },
+        {
+            "id": 439841,
+            "thetvdb_id": 5104336,
+            "youtube_id": null,
+            "title": "Fallout",
+            "season": 1,
+            "episode": 14,
+            "show": {
+                "id": 8339,
+                "thetvdb_id": 279121,
+                "title": "The Flash (2014)"
+            },
+            "code": "S01E14",
+            "global": 14,
+            "description": "Bien que Ronnie and Dr. Stein aient \u00e9t\u00e9 s\u00e9par\u00e9s par l'explosion nucl\u00e9aire, Barry et l'\u00e9quipe pensent que les deux hommes sont sains et saufs. Caitlin est enchant\u00e9e du retour de son fianc\u00e9 et se pr\u00e9pare \u00e0 reprendre leur vie \u00e0 deux tandis que Stein retourne vers son \u00e9pouse. Mais lorsque le G\u00e9n\u00e9ral Eiling s'attaque \u00e0 Firestorm, Ronnie et Stein doivent d\u00e9terminer s'ils sont plus en s\u00e9curit\u00e9 ensemble ou s\u00e9par\u00e9ment. Entretemps, Mason Bridge explique \u00e0 Iris qu'il se trame quelque chose \u00e0 STAR Labs. Le Dr. Stein donne \u00e0 Barry des renseignements importants sur le voyage dans le temps.",
+            "date": "2015-02-17",
+            "note": {
+                "total": "2066",
+                "mean": "4.3974",
+                "user": 0
+            },
+            "user": {
+                "seen": false,
+                "downloaded": false
+            },
+            "comments": "80",
+            "subtitles": []
+        },
+        {
+            "id": 439842,
+            "thetvdb_id": 5104337,
+            "youtube_id": null,
+            "title": "Out of Time",
+            "season": 1,
+            "episode": 15,
+            "show": {
+                "id": 8339,
+                "thetvdb_id": 279121,
+                "title": "The Flash (2014)"
+            },
+            "code": "S01E15",
+            "global": 15,
+            "description": "Mark Mardon, le fr\u00e8re du premier ennemi du Flash, revient \u00e0 Central City pour se venger du d\u00e9tective West. Cisco d\u00e9cide de v\u00e9rifier les th\u00e9ories de Joe pour d\u00e9couvrir les secrets du docteur Wells.",
+            "date": "2015-03-17",
+            "note": {
+                "total": "1962",
+                "mean": "4.6386",
+                "user": 0
+            },
+            "user": {
+                "seen": false,
+                "downloaded": false
+            },
+            "comments": "100",
+            "subtitles": []
+        },
+        {
+            "id": 439843,
+            "thetvdb_id": 5104338,
+            "youtube_id": null,
+            "title": "Rogue Time",
+            "season": 1,
+            "episode": 16,
+            "show": {
+                "id": 8339,
+                "thetvdb_id": 279121,
+                "title": "The Flash (2014)"
+            },
+            "code": "S01E16",
+            "global": 16,
+            "description": "En d\u00e9couvrant sa capacit\u00e9 \u00e0 remonter le temps, Barry va emp\u00eacher un tsunami de se produire. Mais le docteur Wells l\u2019avertit que changer la tournure des \u00e9v\u00e9nements provoque d\u2019autres dangers. Barry s\u2019en rend rapidement compte avec le retour de Snart et de sa clique.",
+            "date": "2015-03-24",
+            "note": {
+                "total": "1849",
+                "mean": "4.2677",
+                "user": 0
+            },
+            "user": {
+                "seen": false,
+                "downloaded": false
+            },
+            "comments": "49",
+            "subtitles": []
+        },
+        {
+            "id": 439844,
+            "thetvdb_id": 5104339,
+            "youtube_id": null,
+            "title": "Tricksters",
+            "season": 1,
+            "episode": 17,
+            "show": {
+                "id": 8339,
+                "thetvdb_id": 279121,
+                "title": "The Flash (2014)"
+            },
+            "code": "S01E17",
+            "global": 17,
+            "description": "Un imitateur qui se fait appeler Trickster s'est mis \u00e0 poser des bombes dans Central City. Pour l'arr\u00eater, Barry et Joe rendent visite au vrai Trickster, un brillant criminel du nom de Jesse James emprisonn\u00e9 voil\u00e0 20 ans. La situation tourne rapidement au vinaigre quand les deux Tricksters s'unissent et s'emparent d'Henry. Parall\u00e8lement, Iris demande \u00e0 Eddie de l'aider \u00e0 r\u00e9soudre une affaire, et des flashbacks montrent comment Harrison Wells a eu l'id\u00e9e de l'acc\u00e9l\u00e9rateur de particules.",
+            "date": "2015-03-31",
+            "note": {
+                "total": "1899",
+                "mean": "4.47",
+                "user": 0
+            },
+            "user": {
+                "seen": false,
+                "downloaded": false
+            },
+            "comments": "92",
+            "subtitles": []
+        },
+        {
+            "id": 446200,
+            "thetvdb_id": 5110414,
+            "youtube_id": null,
+            "title": "All-Star Team Up",
+            "season": 1,
+            "episode": 18,
+            "show": {
+                "id": 8339,
+                "thetvdb_id": 279121,
+                "title": "The Flash (2014)"
+            },
+            "code": "S01E18",
+            "global": 18,
+            "description": "Note: Flash 1x18 takes places before Arrow 3x18.\nBarry is surprised when Felicity Smoak arrives from Starling City along with her boyfriend, Ray Palmer, who flies in as the Atom. They\u2019ve come to visit S.T.A.R. Labs as Ray needs help with his suit. Their timing turns out to be fortuitous because it\u2019s all hands on deck after a meta human named Brie Larvin unleashes hundreds of robotic bees to attack and kill her former co-workers, including Dr. Tina McGee. A group dinner with Barry, Felicity, Ray, Iris and Eddie turns into a disaster.",
+            "date": "2015-04-14",
+            "note": {
+                "total": "1726",
+                "mean": "4.39",
+                "user": 0
+            },
+            "user": {
+                "seen": false,
+                "downloaded": false
+            },
+            "comments": "46",
+            "subtitles": []
+        },
+        {
+            "id": 463577,
+            "thetvdb_id": 5166508,
+            "youtube_id": null,
+            "title": "Who Is Harrison Wells?",
+            "season": 1,
+            "episode": 19,
+            "show": {
+                "id": 8339,
+                "thetvdb_id": 279121,
+                "title": "The Flash (2014)"
+            },
+            "code": "S01E19",
+            "global": 19,
+            "description": "Joe et Cisco voyagent \u00e0 Starling City pour continuer leur enqu\u00eate sur le Dr Wells. Alors qu\u2019ils sont en ville, le duo fait appel \u00e0 l\u2019aide du capitaine Lance, et Cisco rencontre Black Canary, qui lui demande une faveur. Pendant ce temps l\u00e0, \u00e0 Central City, Barry court apr\u00e8s un meta-humain appel\u00e9 Hannibal Bates, qui peut se prendre l\u2019apparence de toutes les personnes qu\u2019il touche - ce qui inclut Eddie, Iris, Caitlin et m\u00eame The Flash.",
+            "date": "2015-04-21",
+            "note": {
+                "total": "1737",
+                "mean": "4.4940",
+                "user": 0
+            },
+            "user": {
+                "seen": false,
+                "downloaded": false
+            },
+            "comments": "51",
+            "subtitles": []
+        },
+        {
+            "id": 463578,
+            "thetvdb_id": 5166509,
+            "youtube_id": null,
+            "title": "The Trap",
+            "season": 1,
+            "episode": 20,
+            "show": {
+                "id": 8339,
+                "thetvdb_id": 279121,
+                "title": "The Flash (2014)"
+            },
+            "code": "S01E20",
+            "global": 20,
+            "description": "Barry, Caitlin, Cisco et Joe mettent en place un pi\u00e8ge pour Wells. Cisco s'utilise lui-m\u00eame en tant qu'app\u00e2t, ce qui le met en grand danger. Pendant ce temps, Eddie prend une d\u00e9cision qui laisse Joe bien sceptique.",
+            "date": "2015-04-28",
+            "note": {
+                "total": "1668",
+                "mean": "4.6091",
+                "user": 0
+            },
+            "user": {
+                "seen": false,
+                "downloaded": false
+            },
+            "comments": "67",
+            "subtitles": []
+        },
+        {
+            "id": 463579,
+            "thetvdb_id": 5166510,
+            "youtube_id": null,
+            "title": "Grodd Lives",
+            "season": 1,
+            "episode": 21,
+            "show": {
+                "id": 8339,
+                "thetvdb_id": 279121,
+                "title": "The Flash (2014)"
+            },
+            "code": "S01E21",
+            "global": 21,
+            "description": "Barry doit s'occuper de la derni\u00e8re menace du Reverse Flash qui s'en prend \u00e0 un membre du groupe. Pour ne rien arranger, le Dr Wells rel\u00e2che Grodd dans la ville pour distraire Barry et l'\u00e9quipe. Joe, Barry et Cisco  se rendent dans les \u00e9gouts pour attraper Grodd mais le gorille a rapidement le dessus sur eux, car il finit par kidnapper Joe. Puis Iris et Barry ont une discussion \u00e0 c\u0153ur ouvert.",
+            "date": "2015-05-05",
+            "note": {
+                "total": "1435",
+                "mean": "4.2913",
+                "user": 0
+            },
+            "user": {
+                "seen": false,
+                "downloaded": false
+            },
+            "comments": "77",
+            "subtitles": []
+        },
+        {
+            "id": 462294,
+            "thetvdb_id": 5163053,
+            "youtube_id": null,
+            "title": "Rogue Air",
+            "season": 1,
+            "episode": 22,
+            "show": {
+                "id": 8339,
+                "thetvdb_id": 279121,
+                "title": "The Flash (2014)"
+            },
+            "code": "S01E22",
+            "global": 22,
+            "description": "As Wells once again gets the upper hand on the S.T.A.R. Labs team, Barry realizes he needs to make a big move and reaches out to an old foe, Captain Cold, for help. Joe and Caitlin warn Barry that Cold can't be trusted. True to form, Cold has his own agenda that involves the meta-humans trapped in the containment cells. As things seem to be going from bad to worse, The Flash gets reinforcements - Arrow and Firestorm.",
+            "date": "2015-05-12",
+            "note": {
+                "total": "86",
+                "mean": "4.5465",
+                "user": 0
+            },
+            "user": {
+                "seen": false,
+                "downloaded": false
+            },
+            "comments": "9",
+            "subtitles": []
+        },
+        {
+            "id": 463580,
+            "thetvdb_id": 5166511,
+            "youtube_id": null,
+            "title": "Fast Enough",
+            "season": 1,
+            "episode": 23,
+            "show": {
+                "id": 8339,
+                "thetvdb_id": 279121,
+                "title": "The Flash (2014)"
+            },
+            "code": "S01E23",
+            "global": 23,
+            "description": "Wells presents Barry with a life-changing choice. Dr. Martin Stein and Ronnie Raymond return to help the S.T.A.R. Labs team with this final fight.",
+            "date": "2015-05-19",
+            "note": {
+                "total": "2",
+                "mean": "4.5",
+                "user": 0
+            },
+            "user": {
+                "seen": false,
+                "downloaded": false
+            },
+            "comments": "0",
+            "subtitles": []
+        }
+    ],
+    "errors": []
+}
